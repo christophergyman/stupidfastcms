@@ -1,4 +1,4 @@
-#titlebar {
+#titlebar[b-fekawvbbds] {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7,7 +7,7 @@
   text-decoration: none;
 }
 
-.center_content {
+.center_content[b-fekawvbbds] {
   display: flex;
   justify-content: center;
   align-items: center;

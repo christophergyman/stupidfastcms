@@ -1,0 +1,23 @@
+/* _content/BlazorApp/Components/Layout/MainLayout.razor.rz.scp.css */
+#titlebar[b-fekawvbbds] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 72pt;
+  text-decoration: none;
+}
+
+.center_content[b-fekawvbbds] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+/* _content/BlazorApp/Components/Pages/Home.razor.rz.scp.css */
+.flex_container[b-rgllmci9wr] {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12pt;
+  gap: 12pt;
+}
